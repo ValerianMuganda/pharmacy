@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>This is the page to show drug details</h1>
+    <p>Testing</p>
     
 </body>
 </html>

@@ -6,6 +6,7 @@
     <title>View Drug</title>
 </head>
 <body>
+    <h1>This is the page to show drug details</h1>
     
 </body>
 </html>

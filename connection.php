@@ -1,7 +1,7 @@
 <?php
 
-$connection = new mysqli("localhost","root","","pharmacy");
+$connection = new mysqli("localhost","root","","pharmacy",3307);
 
 if ($connection->connect_error){
-    echo "Database Connection Failed";
+    die( "Database Connection Failed".$connnection->connect_error);
 }

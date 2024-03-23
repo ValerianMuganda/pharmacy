@@ -33,9 +33,10 @@
                                 <td>$name</td>
                                 <td>$price</td>
                                 <td>
-                                    <a href='view.php/$id'>View</a>
-                                    <a href='edit.php/$id'>Edit</a>
-                                    <a href='index.php/$id'>Delete</a>
+                                    <a href='view.php?id=$id'>View</a>
+                                    <a href='edit.php?id=$id'>Edit</a>
+                                    <a href='index.php?id=$id'>Delete</a>
+                                    <a href='create.php?id=$id'>Create</a>
                                 </td>
                             </tr>
 

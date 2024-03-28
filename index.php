@@ -44,6 +44,7 @@
                     }
                 }
             ?>
+            <script src="pharmacy.js></script>
         </tbody>
     </table>
 </body>

@@ -35,7 +35,7 @@
                                 <td>
                                     <a href='view.php?id=$id'>View</a>
                                     <a href='edit.php?id=$id'>Edit</a>
-                                    <a href='index.php?id=$id'>Delete</a>
+                                    <a href='delete.php?id=$id'>Delete</a>
                                     <a href='create.php?id=$id'>Create</a>
                                 </td>
                             </tr>
